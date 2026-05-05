@@ -4,6 +4,8 @@
 
 **RPG Meet** é um aplicativo móvel inovador que combina videoconferência em tempo real com um sistema interativo de rolagem de dados, especialmente projetado para sessões de RPG de mesa (D&D, Pathfinder, Call of Cthulhu, etc.).
 
+**Preview:** https://manus.im/app-preview/6ztcPy6u8BnmjrWYNWtWKg?sessionId=VOR0LKIEzcR3u6vHyZNHxw
+
 ---
 
 ## 🌟 Características Principais
